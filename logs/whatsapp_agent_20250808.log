@@ -1,0 +1,14 @@
+2025-08-08 19:15:59,124 - services.whatsapp_service - INFO - WhatsApp service initialized successfully
+2025-08-08 19:15:59,164 - services.database_service - INFO - Database initialized successfully
+2025-08-08 19:15:59,164 - agents.order_agent - INFO - Order Agent initialized
+2025-08-08 19:15:59,165 - agents.faq_agent - INFO - FAQ Agent initialized
+2025-08-08 19:15:59,165 - agents.reject_agent - INFO - Reject Agent initialized
+2025-08-08 19:15:59,165 - agents.manager_agent - INFO - Manager Agent initialized with sub-agents
+2025-08-08 19:15:59,167 - __main__ - INFO - Starting WhatsApp Agent on port 5000
+2025-08-08 19:16:00,104 - services.whatsapp_service - INFO - WhatsApp service initialized successfully
+2025-08-08 19:16:00,108 - services.database_service - INFO - Database initialized successfully
+2025-08-08 19:16:00,108 - agents.order_agent - INFO - Order Agent initialized
+2025-08-08 19:16:00,109 - agents.faq_agent - INFO - FAQ Agent initialized
+2025-08-08 19:16:00,109 - agents.reject_agent - INFO - Reject Agent initialized
+2025-08-08 19:16:00,110 - agents.manager_agent - INFO - Manager Agent initialized with sub-agents
+2025-08-08 19:16:00,115 - __main__ - INFO - Starting WhatsApp Agent on port 5000
